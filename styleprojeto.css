@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    width: 100%;
+    min-height: 100vh;
+    background-image: linear-gradient(180deg, 
+     #0000CD 5%,
+     #BF3EFF 20%,
+     #008B8B 60%,
+     #00BFFF 95%
+    );
+}
+
+main {
+align-items: center;
+display: flex;
+height: 100vh;
+justify-content: center;
+position: relative;
+font-size: 20px;
+padding: 30px 5;
+}
+main title{
+align-items: unset ;
+border-radius: 10px;
+display: flex;
+font-family: arial black;
+font-size: 40px;
+height: 90vh;
+justify-content: center;
+position: absolute;
+padding: 30px;
+
+}
+
+.personagem1 img {
+width: 250px;
+height: 250px;
+padding: 10px;
+}
+.personagem2 img {
+width: 250px;
+height: 250px;
+padding: 10px;
+}
+    
+.personagem3 img {
+width: 250px;
+height: 250px;
+padding: 10px;
+}
+        
+.personagem4 img {
+ width: 250px;
+height: 250px;
+padding: 10px;
+}
+            
+#exibirnome1{
+color: black;
+}
+#exibirnome2{
+color: black;
+}
+#exibirnome3{
+color: black;
+}
+#exibirnome4{
+color: black;
+}
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
